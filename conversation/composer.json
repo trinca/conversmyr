@@ -1,7 +1,7 @@
 {
     "name": "conversmyr/conversation",
     "description": "Simple user messaging tool for Laravel",
-    "keywords": ["laravel", "messenger", "messaging", "user messaging"],
+    "keywords": ["laravel", "conversation", "messaging", "user messaging"],
     "license": "MIT",
     "authors": [
         {
