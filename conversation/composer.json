@@ -1,13 +1,13 @@
 {
-    "name": "conversmyr/conversation",
+    "name": "trinca/conversmyr/conversation",
     "description": "Simple user messaging tool for Laravel",
     "keywords": ["laravel", "conversation", "messaging", "user messaging"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Chris Gmyr",
+            "name": "C Trinca",
             "email": "cmgmyr@gmail.com",
-            "homepage": "https://github.com/cmgmyr",
+            "homepage": "https://github.com/trinca/conversmyr",
             "role": "Developer"
         }
     ],
