@@ -1,11 +1,11 @@
 {
-    "name": "trinca/conversmyr/conversation",
+    "name": "conversmyr/conversation",
     "description": "Conversation Laravel",
     "keywords": ["laravel", "conversation", "messaging", "user messaging"],
     "license": "MIT",
     "authors": [
         {
-            "name": "C Trinca",
+            "name": "V Trinca",
             "email": "support@trincav.net",
             "homepage": "https://github.com/trinca/conversmyr",
             "role": "Developer"
