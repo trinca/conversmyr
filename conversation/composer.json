@@ -1,6 +1,6 @@
 {
     "name": "trinca/conversmyr/conversation",
-    "description": "Simple user messaging tool for Laravel",
+    "description": "Conversation Laravel",
     "keywords": ["laravel", "conversation", "messaging", "user messaging"],
     "license": "MIT",
     "authors": [
